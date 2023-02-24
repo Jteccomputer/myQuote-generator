@@ -1,0 +1,29 @@
+.container {
+    display: grid;
+    padding: 2rem;
+    font-family: monospace;
+    align-items: center;
+}
+
+.quote-header {
+    color: rgb(248, 121, 36);
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Lucida Sans;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: left;
+}
+.quote-wrapper{
+    border: 0.2rem solid #ed6464;
+    border-radius: 10px;
+    padding: 2rem;
+    color: rgb(18, 234, 72);
+    font-size: 24px;
+    text-align: center;
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+}
